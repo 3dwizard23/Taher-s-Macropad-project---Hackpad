@@ -20,3 +20,5 @@ MX-Style switches (4x)
 1x Case- two 3d printed parts 
 M3x16mm screws 
 M3x5mx4mm heatset inserts
+
+My firmware is really basic since i dont know much python and really used this project to learn some , i also did have to use some help from the basic starter code in kmk that the tutorial suggests and some use of ai but it should work
