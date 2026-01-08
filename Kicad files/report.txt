@@ -1,0 +1,61 @@
+Info: Processing symbol 'D1:LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm'.
+Info: Processing symbol 'D3:LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm'.
+Info: Processing symbol 'SW1:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'SW2:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'SW3:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'SW4:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'SW5:Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm'.
+Info: Processing symbol 'SW6:Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm'.
+Info: Total warnings: 8, errors: 0.
+Info: Processing symbol 'U1:opl kicad 2:XIAO-RP2040-DIP'.
+Added SW5 (footprint 'Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm').
+Changed REF** reference designator to SW5.
+Changed SW5 value from RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm to RotaryEncoder.
+Updated SW5 symbol association from  to /c5984c18-4163-487c-9b76-21bc4345eb71.
+Updated SW5 fields.
+Updated SW5 sheetname to '/'.
+Updated SW5 sheetfile to 'opl 2.kicad_sch'.
+Updated SW5 footprint filters to 'RotaryEncoder*'.
+Connected SW5 pin C to GND.
+Add net Net-(U1-GPIO28/ADC2/A2).
+Connected SW5 pin B to Net-(U1-GPIO28/ADC2/A2).
+
+Reconnected U1 pin 3 from unconnected-(U1-GPIO28/ADC2/A2-Pad3) to Net-(U1-GPIO28/ADC2/A2).
+Add net Net-(U1-GPIO29/ADC3/A3).
+Connected SW5 pin A to Net-(U1-GPIO29/ADC3/A3).
+Added SW6 (footprint 'Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm').
+Changed REF** reference designator to SW6.
+Changed SW6 value from RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm to RotaryEncoder.
+Updated SW6 symbol association from  to /cd3f0d9b-5208-4656-b069-4b9ca6d251f8.
+Updated SW6 fields.
+Updated SW6 sheetname to '/'.
+Updated SW6 sheetfile to 'opl 2.kicad_sch'.
+Updated SW6 footprint filters to 'RotaryEncoder*'.
+Add net Net-(U1-GPIO27/ADC1/A1).
+Connected SW6 pin A to Net-(U1-GPIO27/ADC1/A1).
+Add net Net-(U1-GPIO26/ADC0/A0).
+Connected SW6 pin B to Net-(U1-GPIO26/ADC0/A0).
+Connected SW6 pin C to GND.
+Reconnected U1 pin 4 from unconnected-(U1-GPIO29/ADC3/A3-Pad4) to Net-(U1-GPIO29/ADC3/A3).
+Reconnected U1 pin 2 from unconnected-(U1-GPIO27/ADC1/A1-Pad2) to Net-(U1-GPIO27/ADC1/A1).
+Reconnected U1 pin 1 from unconnected-(U1-GPIO26/ADC0/A0-Pad1) to Net-(U1-GPIO26/ADC0/A0).
+Reconnected U1 pin 2 from unconnected-(U1-GPIO27/ADC1/A1-Pad2) to Net-(U1-GPIO27/ADC1/A1).
+Reconnected U1 pin 3 from unconnected-(U1-GPIO28/ADC2/A2-Pad3) to Net-(U1-GPIO28/ADC2/A2).
+Reconnected U1 pin 4 from unconnected-(U1-GPIO29/ADC3/A3-Pad4) to Net-(U1-GPIO29/ADC3/A3).
+Reconnected U1 pin 1 from unconnected-(U1-GPIO26/ADC0/A0-Pad1) to Net-(U1-GPIO26/ADC0/A0).
+Removed unused net unconnected-(U1-GPIO26{slash}ADC0{slash}A0-Pad1).
+Removed unused net unconnected-(U1-GPIO27{slash}ADC1{slash}A1-Pad2).
+Removed unused net unconnected-(U1-GPIO28{slash}ADC2{slash}A2-Pad3).
+Removed unused net unconnected-(U1-GPIO29{slash}ADC3{slash}A3-Pad4).
+
+Warning: No net found for component SW5 pad S1 (no pin S1 in symbol).
+Warning: No net found for component SW5 pad S2 (no pin S2 in symbol).
+Warning: No net found for component SW6 pad S2 (no pin S2 in symbol).
+Warning: No net found for component SW6 pad S1 (no pin S1 in symbol).
+Warning: No net found for component SW5 pad MP (no pin MP in symbol).
+Warning: No net found for component SW5 pad MP (no pin MP in symbol).
+Warning: No net found for component SW6 pad MP (no pin MP in symbol).
+Warning: No net found for component SW6 pad MP (no pin MP in symbol).
+
+
+Info: Total warnings: 8, errors: 0.
