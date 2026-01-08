@@ -8,6 +8,7 @@ I started this project initially when i saw a tiktok about the project and how h
 ![case](https://github.com/user-attachments/assets/36d74b6b-ee45-4222-a32e-4a3d83fc1a07)
 ![schematic](https://github.com/user-attachments/assets/d1f2dfb6-2529-4d86-9833-0d8fd30eee20)
 ![Capture](https://github.com/user-attachments/assets/ccda2cda-e1c0-417a-b79b-29a47c681e80)
+<img width="1920" height="792" alt="Tahers macropad final model2" src="https://github.com/user-attachments/assets/60747854-b250-4ec0-b405-cd5c96f229f1" />
 
 BOM 
 
